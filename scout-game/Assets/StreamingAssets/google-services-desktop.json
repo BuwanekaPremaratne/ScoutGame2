@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "552872224817",
+    "project_id": "scout-game-f5b28",
+    "storage_bucket": "scout-game-f5b28.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:552872224817:android:b14c3b855b36fed3c90d10",
+        "android_client_info": {
+          "package_name": "come.ScoutGame.buwaneka"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "552872224817-duodk7bmc6shthjktupa1usjgfstee85.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABr1isUWVY5fnj1UikwgLn3TlNeBv3Ris"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "552872224817-duodk7bmc6shthjktupa1usjgfstee85.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
